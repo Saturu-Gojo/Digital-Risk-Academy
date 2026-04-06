@@ -28,8 +28,8 @@ A clean, full-featured personal finance dashboard built with **React**, **Tailwi
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/fintrack.git
-cd fintrack
+git clone https://github.com/Saturu-Gojo/Digital-Risk-Academy.git
+cd Digital-Risk-Academy
 
 # Install dependencies
 npm install
@@ -40,15 +40,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output is in the `dist/` folder, ready to deploy to any static host (Vercel, Netlify, GitHub Pages).
-
----
 
 ## 🗂️ Project Structure
 

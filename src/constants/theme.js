@@ -1,0 +1,47 @@
+export const LIGHT = {
+  bg: "#f7f5f0",
+  surface: "#ffffff",
+  surfaceAlt: "#f0ede6",
+  border: "rgba(0,0,0,0.08)",
+  borderStrong: "rgba(0,0,0,0.15)",
+  text: "#1a1714",
+  textSub: "#6b6560",
+  textMuted: "#a09a93",
+  accent: "#c84b31",
+  accentSub: "rgba(200,75,49,0.12)",
+  green: "#2a7d5a",
+  greenSub: "rgba(42,125,90,0.12)",
+  blue: "#1e5fa8",
+  blueSub: "rgba(30,95,168,0.12)",
+  amber: "#b07d1a",
+  amberSub: "rgba(176,125,26,0.1)",
+  shadow: "0 2px 12px rgba(0,0,0,0.07)",
+  shadowLg: "0 8px 32px rgba(0,0,0,0.1)",
+};
+
+export const DARK = {
+  bg: "#0e0c0a",
+  surface: "#181512",
+  surfaceAlt: "#211e1a",
+  border: "rgba(255,255,255,0.07)",
+  borderStrong: "rgba(255,255,255,0.14)",
+  text: "#f0ece6",
+  textSub: "#8c8580",
+  textMuted: "#5a5550",
+  accent: "#e05c3a",
+  accentSub: "rgba(224,92,58,0.15)",
+  green: "#3dae7a",
+  greenSub: "rgba(61,174,122,0.13)",
+  blue: "#4d8fd6",
+  blueSub: "rgba(77,143,214,0.13)",
+  amber: "#d4a03a",
+  amberSub: "rgba(212,160,58,0.12)",
+  shadow: "0 2px 16px rgba(0,0,0,0.3)",
+  shadowLg: "0 8px 40px rgba(0,0,0,0.45)",
+};
+
+export const NAV_ITEMS = [
+  { id: "dashboard", icon: "◈", label: "Dashboard" },
+  { id: "transactions", icon: "⇄", label: "Transactions" },
+  { id: "insights", icon: "◎", label: "Insights" },
+];

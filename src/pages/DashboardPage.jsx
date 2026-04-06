@@ -2,7 +2,7 @@ import { useState, useCallback } from "react";
 import { useTheme } from "../context/ThemeContext";
 import { useRole } from "../context/RoleContext";
 import { useTransactions } from "../context/TransactionsContext";
-import { useDashboardMetrics } from "../hooks/useDashboardMetrics";
+import { useDashboardMetrics } from "../hooks/UseDashboardMetrics";
 import { formatCompact } from "../utils/helpers";
 
 import PageHeader        from "../components/layout/PageHeader";

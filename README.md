@@ -39,6 +39,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
+Live: https://69d35c646f7bde0008d74d30--fintk.netlify.app/
 
 
 ## 🗂️ Project Structure

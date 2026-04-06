@@ -1,5 +1,5 @@
 import { useTheme } from "../context/ThemeContext";
-import { useDashboardMetrics } from "../hooks/useDashboardMetrics";
+import { useDashboardMetrics } from "../hooks/UseDashboardMetrics";
 import { formatCompact } from "../utils/helpers";
 
 import PageHeader              from "../components/layout/PageHeader";

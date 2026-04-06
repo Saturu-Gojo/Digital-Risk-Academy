@@ -2,7 +2,7 @@ import { useState, useCallback } from "react";
 import { useTheme } from "../context/ThemeContext";
 import { useRole } from "../context/RoleContext";
 import { useTransactions } from "../context/TransactionsContext";
-import { useTransactionFilters } from "../hooks/useTransactionFilters";
+import { useTransactionFilters } from "../hooks/UseTransactionFilters";
 
 import PageHeader          from "../components/layout/PageHeader";
 import Modal               from "../components/ui/Modal";

@@ -29,7 +29,7 @@ A clean, full-featured personal finance dashboard built with **React**, **Tailwi
 ```bash
 # Clone the repository
 git clone https://github.com/Saturu-Gojo/Digital-Risk-Academy.git
-cd Digital-Risk-Academy
+cd fintrack
 
 # Install dependencies
 npm install
